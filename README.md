@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there 👋, my name is wishal
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/1497883397565587458/1656662818/1080x360)
 
-<!--
-**wishalNipun/wishalNipun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wishal, and I do content on Design and Development. I really enjoy learning languages.
+
+Skills: HIBERNATE / JAVA / HTML / CSS
 
 Here are some ideas to get you started:
 
