@@ -1,4 +1,4 @@
-### Hi there 👋,I'm wishal
+### Hi there 👋, I'm wishal
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1497883397565587458/1656662818/1080x360)
 
