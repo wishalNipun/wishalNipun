@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://pbs.twimg.com/profile_banners/1497883397565587458/1656662818/1080x360)
 
-<img align = "right"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img align = "right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 <p align ="left">
 I'm Wishal, and I do content on Design and Development. I really enjoy learning languages.
 
