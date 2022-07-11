@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 </div>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wishalNipun&show_icons=true)  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wishalNipun&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wishalNipun&show_icons=true)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wishalNipun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wishalNipun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
