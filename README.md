@@ -4,6 +4,10 @@
 
 I'm Wishal, and I do content on Design and Development. I really enjoy learning languages.
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ##Skills: HIBERNATE / JAVA / HTML / CSS
 
 Here are some ideas to get you started:
@@ -20,6 +24,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wishalnipun&label=Profile%20views&color=0e75b6&style=flat" alt="wishalnipun" /> </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
