@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm wishal
-#### Design and Development
+#### Full Stack Developer
 ![Design and Development](https://pbs.twimg.com/profile_banners/1497883397565587458/1656662818/1080x360)
 
 <img align = "right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="375" height="190"/>
