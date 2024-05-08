@@ -7,7 +7,7 @@
 I'm Wishal, and I do content on Design and Development. I really enjoy learning languages.
 
   
-##Skills: HIBERNATE / JAVA / HTML / CSS / JAVASCRIPT / Spring / Spring Boot / Angular / MERN
+##Skills:  JAVA / PYTHON / HIBERNATE /HTML / CSS / JAVASCRIPT / Spring / Spring Boot / Angular / MERN  / REACT / REACTNATIVE / MYSQL / MPNGODB / REST API
 
   
 Here are some ideas to get you started:
